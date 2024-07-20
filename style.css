@@ -664,6 +664,10 @@ footer .copyright {
   font-weight: 600;
 }
 
+
+/* Single Product */
+
+
 @media (max-width: 477px) {
   .section-p1 {
     padding: 20px;
